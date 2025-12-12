@@ -7,3 +7,4 @@ app/build/outputs/apk/debug/*
 app/build/tmp/*
 app/jni/src/build/*
 local.propertiesgradle/wrapper/gradle-8.*-bin.zip
+gradle/wrapper/gradle-8.*-bin.zip
