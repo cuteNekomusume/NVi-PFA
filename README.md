@@ -60,3 +60,4 @@ This only builds the debug version of the apk
 - Hex: Playback options: play / pause, seek backwards/forwards;
 - Zeal: Custom Icon;
 - CraftyKid: Bug fixes and Android Improvements with adding new features.
+eeee
